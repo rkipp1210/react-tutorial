@@ -23,5 +23,10 @@
         "text": "this comment was created on the server",
         "id": 1463585833384,
         "author": "Server"
+    },
+    {
+        "text": "Optimistically add this",
+        "id": 1463586300540,
+        "author": "Optimistic"
     }
 ]
